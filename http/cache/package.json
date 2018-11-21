@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
