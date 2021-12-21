@@ -27,3 +27,9 @@ rtt min/avg/max/mdev = 31.361/32.404/32.775/0.533 ms
 ```
 
 参考 [ping命令全解析（语法、过程、结果分析、网络故障诊断）](http://witmax.cn/ping.html#5)
+
+## 常见问题
+
+### TCP 连接数限制？
+
+- [一台机器最多能撑多少个TCP连接? 今天掰扯清楚！](https://zhuanlan.zhihu.com/p/290651392)
