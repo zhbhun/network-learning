@@ -88,6 +88,7 @@ ps：如何保证公钥不被篡改？ —— 将公钥放在数字证书中。�
 - [SSL/TLS协议运行机制的概述](https://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 - [《HTTPS 协议概述》](https://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 - [《图解 HTTPS 协议》](https://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
+- [HTTPS中间人攻击原理](https://zhuanlan.zhihu.com/p/412540663)
 
 ## FAQ
 
