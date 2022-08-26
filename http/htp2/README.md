@@ -1,3 +1,11 @@
+## Server Push
+
+- [Removing HTTP/2 Server Push from Chrome](https://developer.chrome.com/blog/removing-push/?utm_source=pocket_mylist)
+- [Chrome 将禁用 HTTP/2 服务器推送（Server Push）支持](https://www.oschina.net/news/207112/chrome-removing-server-push?utm_source=pocket_mylist)
+- [Faster page loads using server think-time with Early Hints](https://developer.chrome.com/blog/early-hints/?utm_source=pocket_mylist)
+
+---
+
 - [一文读懂 HTTP/2 特性](https://zhuanlan.zhihu.com/p/26559480)
 - [HTTP/2 服务器推送（Server Push）教程](http://www.ruanyifeng.com/blog/2018/03/http2_server_push.html)
 
