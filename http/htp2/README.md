@@ -56,3 +56,4 @@
 - [HTTP2 Server Push的研究](https://www.open-open.com/lib/view/open1483537725037.html)
 - [Node HTTP/2 Server Push 从了解到放弃](http://kmanong.top/kmn/qxw/form/article?id=7697&cate=0) / https://segmentfault.com/a/1190000014655562
 - [HTTP/2 服务器推送（Server Push）教程](https://bbs.shuyu.link/topics/418)
+- [浏览器允许的并发请求资源数是什么意思？](https://www.zhihu.com/question/20474326)
