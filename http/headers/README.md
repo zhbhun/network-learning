@@ -8,7 +8,12 @@ TODO
 
 ### 响应头
 
-TODO
+#### Content-Type
+
+- text/event-stream：是 Server-Sent Events (SSE) 的 MIME 类型，用于实现服务器到客户端的单向实时通信。通过 SSE，服务器可以将更新推送到浏览器，无需客户端发送请求。此类通信适用于实时通知、实时数据更新等场景。
+- application/octet-stream：是一种通用的二进制数据流 MIME 类型。这种类型表示响应可能包含任意类型的数据，而不是特定的文本、图像或视频格式。在下载文件、处理二进制数据流等场景中经常使用 application/octet-stream。
+
+    ps：对比 application/octet-stream，text/event-stream 是一种用于实现实时单向通信的纯文本 MIME 类型，专门用于 Server-Sent Events。与之相比，application/octet-stream 是一种用于表示通用二进制数据的 MIME 类型。
 
 ## 进阶
 
