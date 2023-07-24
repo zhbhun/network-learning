@@ -104,6 +104,10 @@ HTTPs耗时 = TCP握手 + SSL握手
 
 - [《HTTPS 协议的延迟有多大？》](https://www.ruanyifeng.com/blog/2014/09/ssl-latency.html)
 
+### 证书申请
+
+- [教你快速撸一个免费HTTPS证书](https://juejin.im/post/5b57e1c05188251afe7b922a)
+
 ## 参考文献
 
 - [HTTP 2：现实世界的性能测试和剖析](https://css-tricks.com/http2-real-world-performance-test-analysis/)
